@@ -16,13 +16,11 @@
 
 </br>
 </br>
-</br>
 
 ## 💻 Projeto
 
 O projeto é um agregador de links para usar como cartão de visitas online.
 
-</br>
 </br>
 
 ## 🚀 Tecnologias
